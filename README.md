@@ -1,2 +1,2 @@
-# website_feedback
-For reporting issues &amp; suggestions for deno.com and deno.land 
+# Website Feedback
+This repo is for reporting issues &amp; suggestions for deno.com and deno.land 
